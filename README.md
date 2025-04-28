@@ -22,20 +22,22 @@ In windows 7 give the command arp -a
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
-![Alt text](1.png)
+![image](https://github.com/user-attachments/assets/dbd6fde3-af2f-4475-839e-67db8bedb96c)
 
 
  dsniff:In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
-![Alt text](2.png)
+![image](https://github.com/user-attachments/assets/7281486f-2d1c-4b09-b702-4c32000017b5)
+
 
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
-![Alt text](3.png)
+![image](https://github.com/user-attachments/assets/3f565d9f-68ab-42f1-a5c8-42fe04acefdd)
+
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
-![Alt text](4.png)
+![image](https://github.com/user-attachments/assets/318671f8-6917-416c-858b-a8b7c6fff3c7)
 
 
 ## RESULT:
